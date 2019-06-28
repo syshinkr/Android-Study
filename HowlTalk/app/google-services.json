@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1053835401631",
+    "firebase_url": "https://firsttalk-9484d.firebaseio.com",
+    "project_id": "firsttalk-9484d",
+    "storage_bucket": "firsttalk-9484d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053835401631:android:1c2631f0e3582105",
+        "android_client_info": {
+          "package_name": "com.project.syshinkr.howltalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053835401631-8locpc25sbft86o4lo9as75vbdjag3t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.syshinkr.howltalk",
+            "certificate_hash": "cacd5521067bca97434a00b85717c80a9197b960"
+          }
+        },
+        {
+          "client_id": "1053835401631-c4is9lp5fo6dic9p0car1v2u0qoe6d91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgboie3tgMt3FsOL9SzZndcYrYT4gzAI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053835401631-c4is9lp5fo6dic9p0car1v2u0qoe6d91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
