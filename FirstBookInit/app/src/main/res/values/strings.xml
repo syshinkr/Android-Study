@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstBookInit</string>
+    <string name="facebook_app_id">1498924763584774</string> <string name="fb_login_protocol_scheme">fb1498924763584774</string>
+    <!--
+    <string name="protocol_schema"></string>
+    -->
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">KuO0RVeQeuKM0nQCbVkG1XdZ8</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">7w0cNGQ1eUrXsC0oREDbp3c8krXzpFw5ltvKMroOEEkfPnTo77</string>
+</resources>

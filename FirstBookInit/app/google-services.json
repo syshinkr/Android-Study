@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "819322441200",
+    "firebase_url": "https://firstbookinit.firebaseio.com",
+    "project_id": "firstbookinit",
+    "storage_bucket": "firstbookinit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819322441200:android:c1ff55de818c6130",
+        "android_client_info": {
+          "package_name": "com.project.syshinkr.firstbookinit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819322441200-ec6vl1hv1djo8sr2vnq5k2lh81evj3du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4jQNKJox0t4BWN-0EeBDMOwy84muTHVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

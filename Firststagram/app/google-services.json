@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "723180111568",
+    "firebase_url": "https://firststagram-5f283.firebaseio.com",
+    "project_id": "firststagram-5f283",
+    "storage_bucket": "firststagram-5f283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723180111568:android:5ba3699eed325278",
+        "android_client_info": {
+          "package_name": "com.project.syshinkr.firststagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723180111568-28qtnfbc0bl3gsu0tspbvl7cq727m2vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.syshinkr.firststagram",
+            "certificate_hash": "cacd5521067bca97434a00b85717c80a9197b960"
+          }
+        },
+        {
+          "client_id": "723180111568-nl3sn21td6cf20v1oo80fjlvag33tgq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIyvvzPvMF1a6qjxrbwdSn4W6GZgMmQpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723180111568-nl3sn21td6cf20v1oo80fjlvag33tgq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

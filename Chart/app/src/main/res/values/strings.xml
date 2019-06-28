@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chart</string>
+    <string name="limitText">Critical Blood Pressure</string>
+</resources>
